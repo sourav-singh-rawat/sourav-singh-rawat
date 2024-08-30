@@ -13,11 +13,10 @@
 ### Skills
 
 - **Programming Languages:** Python, DART, JS, Java, Swift, Kotlin
-- **Hardware Languages:** PSPICE, Embedded C++, VHDL, MATLAB
 - **Frameworks:** Flutter, React Native, ReactJS, SwiftUI 
 - **Data Essentials:** Firebase, Supabase, MongoDB, JSON, MySQL
-- **Backend:** Flask, Django, ExpressJS, NodeJS
-- **Software Essentials:** Git, Terminal, VSCode, XCode, Andriod Studio
+- **Backend:** Flask, Django, ExpressJS, NodeJS, WebSocket, MQTT
+- **Software Essentials:** Git, Terminal, VSCode, XCode, Andriod Studio, GCP
 - **Designing:** Figma
 - **Other:** GitHub
 
