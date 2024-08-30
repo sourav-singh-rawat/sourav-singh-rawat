@@ -15,10 +15,10 @@
 - **Programming Languages:** Python, DART, JS, Java, Swift, Kotlin
 - **Frameworks:** Flutter, React Native, ReactJS, SwiftUI 
 - **Data Essentials:** Firebase, Supabase, MongoDB, JSON, MySQL
-- **Backend:** Flask, Django, ExpressJS, NodeJS, WebSocket, MQTT
-- **Software Essentials:** Git, Terminal, VSCode, XCode, Andriod Studio, GCP
+- **Backend:** Flask, Django, ExpressJS, NodeJS, WebSocket, MQTT, GCP
+- **Software Essentials:** Git, Terminal, VSCode, XCode, Andriod Studio
 - **Designing:** Figma
-- **Other:** GitHub
+- **Other:** GitHub, OpenAI, Deepgram, ElevenLabs, Groq, Cartesia
 
 -------------
 ### Stats
