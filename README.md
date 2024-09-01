@@ -7,9 +7,9 @@
 - **[Nova](https://apps.apple.com/in/app/nova-social/id6446203548)** A place where you can gain knowledge, explore job prospects, and connect with enthusiastic individuals for mutual growth.
 - **[Sociall One:](https://www.sociallone.com/#Download)** Empowering businesses to effortlessly connect and share content to shine across all social media platforms with just one click.
 - **[CredWise:](https://credwise.co.in/)** One-click solutions for all major financial needs of the customer. Our first application "Credwise" allows users to identify the best card and offers available to them in the digital space.
-- **[qoohoo:](https://qoohoo.in/)** Cross-platform creator economy products and services (I made app, and website) (overall the product is deprecated)
+- **[qoohoo:](https://qoohoo.in/)** Cross-platform creator economy products and services for engagement, events, and communication.
 - **[Pupape:](https://counttrees.com/home)** Seamlessly organizes your shopping, bills, and offers, connecting you with nearby stores for a smarter, safer shopping experience.
-- **[Fule-Man:](https://github.com/sourav-singh-rawat/Fule-Man)** Provide Better Network To Deliver Fuel Across India.
+- **[Fule-Man:](https://github.com/sourav-singh-rawat/Fule-Man)** Delivery app that delivers fuel from your nearest fuel station to your current location..
 
 -------------
 ### Skills
