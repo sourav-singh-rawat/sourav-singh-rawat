@@ -1,4 +1,4 @@
-<img alt="Hi, This is Sourav!" title="Banner" height="150" width="1500" src="https://raw.githubusercontent.com/sourav-singh-rawat/sourav-singh-rawat/master/assets/banner1.png">
+<img alt="Hi, This is Sourav!" title="Banner" height="150" width="1500" src="https://raw.githubusercontent.com/sourav-singh-rawat/sourav-singh-rawat/master/assets/banner.png">
 
 -------------
 ### Projects
