@@ -18,7 +18,7 @@
 - **Backend:** Flask, Django, ExpressJS, NodeJS, WebSocket, MQTT, GCP
 - **Software Essentials:** Git, Terminal, VSCode, XCode, Andriod Studio
 - **Designing:** Figma
-- **Other:** GitHub, OpenAI, Deepgram, ElevenLabs, Groq, Cartesia
+- **Other:** GitHub, OpenAI, Deepgram, ElevenLabs, Groq, Cartesia, CI/CD
 
 -------------
 ### Stats
