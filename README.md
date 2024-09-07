@@ -2,6 +2,7 @@
 
 -------------
 ### Projects
+- **[esp_wifi_provisioning](https://pub.dev/packages/esp_wifi_provisioning)** Flutter library to provision WiFi on ESP devices over Bluetooth.
 - **[Pixa](https://gist.github.com/sourav-singh-rawat/b2dc97f272096377d236c89793681aa3)** Your Personal AI Engaging, Interactive Toys that Play, Learn, and Grow with You. Say, [heypixa!](https://www.heypixa.ai/)
 - **[TalkBack AI](https://github.com/sourav-singh-rawat/TalkBack-AI-Server)** A real-time, speech-to-speech AI response server.
 - **[Nova](https://apps.apple.com/in/app/nova-social/id6446203548)** A place where you can gain knowledge, explore job prospects, and connect with enthusiastic individuals for mutual growth.
